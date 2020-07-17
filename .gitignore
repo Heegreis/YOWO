@@ -44,6 +44,7 @@ backup/
 ucf_detections/
 jhmdb_detections/
 weights/
+dataset/
 
 # Installer logs
 pip-log.txt
